@@ -1,7 +1,7 @@
 {
   "name": "hack-repo",
   "version": "1.0.0",
-  "description": "Repo for 2022 hactoberfest",
+  "description": "Repo for 2023 hactoberfest",
   "main": "index.js",
   "scripts": {
     "start": "node main.js",
